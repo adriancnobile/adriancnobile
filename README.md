@@ -21,7 +21,7 @@ Here are some of the projects I've worked on:
 - **Description:** Analyzed the high number of returned orders at a Superstore to identify causes and suggest ways to reduce returns.
 - **Tools Used:** Power BI, Excel
 
-#### Manhattan Vacation Rental Market Analysis
+#### [Manhattan Vacation Rental Market Analysis](https://github.com/adriancnobile/vacation-rental-market-analysis-nyc)
 - **Description:** Analyzed current Airbnb listings to identify useful insights for a client interested in investing in several properties in Manhattan.
 - **Tools Used:** Google Sheets, Excel
 

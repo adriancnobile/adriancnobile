@@ -8,7 +8,7 @@ I'm from Rye Brook, NY, and I’m a passionate Business Intelligence Analyst wit
 - 🌱 I’m learning **Python and project management.**
 - 📝 All of my projects are available here: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adriancnobile/projects)
 - ✉️ Reach me via email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriancnobile@gmail.com)
-- 📄 Check out my resume: [**HERE**](#) (https://docs.google.com/document/d/1k3DIHUm6X98JMdmYdB9N3V34juPfZsXTRCB4nxnInvU/edit?usp=sharing)
+- 📄 Check out my resume: [**HERE**](https://docs.google.com/document/d/1k3DIHUm6X98JMdmYdB9N3V34juPfZsXTRCB4nxnInvU/edit?usp=sharing)
 - 🤔 Fun fact: **I have triplet brothers that are older than me!**
 
 ---
